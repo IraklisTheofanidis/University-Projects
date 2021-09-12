@@ -1,0 +1,59 @@
+﻿body{
+	margin:0px;
+	padding:0px;
+    background-attachment:scroll;	
+	
+
+}
+a{
+  color:blue; 
+ margin:5px;	}
+
+a:hover {
+ 
+  background-color: #555;
+  color: white;0000
+
+}
+
+
+
+#top {
+	
+	  float:left;     
+	height:3em; 
+	vertical-align:middle;
+	background-color:grey;
+    width:100%;
+    font-size:x-large;
+     text-align:left
+
+        
+     }
+
+ 
+#left {
+	
+	width:20em;
+	background-color:#e5e5e5;
+	display:inline-block;
+	height:auto;
+	min-height:10em;
+	/*height:31.5em; */
+	
+}
+
+#content {
+	width:auto;
+	display:inline-block;
+	vertical-align:top;
+}
+
+#footer {
+	height:3.05em; 
+	vertical-align:middle;
+	background-color: grey;
+	width:100%;
+}
+
+

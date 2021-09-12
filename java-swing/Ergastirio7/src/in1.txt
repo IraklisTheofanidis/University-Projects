@@ -1,0 +1,47 @@
+﻿Marten G. Mickos on Innovation.
+by Roberto V. Zicari on July 29th, 2017
+
+It has been a while since my last interviews on Innovation�.
+
+I asked a few questions to Marten G Mickos, CEO of Eucalyptus, former CEO of MySQL.
+
+1. What is �Innovation� for you?
+Marten: Peter Drucker said it best: Innovation is change that creates a new dimension of performance. Whereas invention typically is something technical, an innovation can relate to anything a business does, as long as it creates a new dimension of performance. Google�s business model is an innovation, as is the usability of Apple�s products.
+
+2. What does it take to become a successful innovator?
+Marten: Innovators many times start by solving problems they have experienced themselves. In that way they know the problem well and they have a genuine desire to solve it. But sometimes it�s not enough. You also need to look around you and verify that the problem you experienced is sufficiently generic, common and real so that the solving of it truly creates a new dimension of performance.
+
+3. Is there a price to pay to be an innovator? Which one?
+Marten: There is a price to pay for everything we do in life, but there is a higher price for not doing things. It�s time consuming to be an innovator, and it takes a lot of passion and determination to keep going until the innovation succeeds (or until you know it didn�t).
+Innovation is risky business. We all know about the successes, but we may not always realize how many failures there are for each success. If you want to be an innovator, you must be prepared both for the huge success you are dreaming of and the possible failure that is statistically perhaps even more likely than success.
+
+4. What are the rewards to be an innovator?
+Marten: The main reward is the feeling of accomplishment � the knowledge of having contributed to something that makes the world a better place.
+Many innovations also provide ample financial reward. But not all do.
+For instance, the Finnish telecom executive who came up with the idea for text messaging didn�t make money on it.
+
+5. What are in your opinion the top 3 criteria for successful innovation?
+Marten:A new dimension of performance says it all. Examples: Open source software has enabled the world to produce applications and web services in a way never before possible. Google has enabled people to find information in a way never before possible, and they have enabled small and large vendors to reach the most interested customers in an efficient way. Amazon is enabling us to consume books faster and easier than before (with Kindle) and through their cloud offering they enable entrepreneurs to start a company without buying a single computer server. Those are great innovations.
+
+6. Given your previous experience as CEO at MySQL , do you think becoming an innovator can be taught? If yes, how?
+Marten: I certainly believe that you can get trained for being an innovator.
+But more than it can be taught, it can be learned. What I mean is that it isn�t necessarily in a classroom that you learn about innovation. It is by doing it in practice, and by learning from those who have done it before. Mark Twain said it so well: Don�t let education get in the way of learning.
+
+7. What specific programs do you think foster innovation?
+Marten: The ecosystem of startup companies, angel investors and VCs.
+Conferences and camps (such as Maker Faire and TED) that focus on wild ideas and big bold plans.
+
+8. What would you recommend to young people who wish to pursue innovation?
+Marten: To start immediately, and keep innovating until they hit gold. It may take ten attempts or it may take a thousand attempts. I would also recommend young people to keenly observe some of the greatest innovators in the world, and innovators they have access to.
+
+9. In your opinion how can we create a culture that supports and sustains innovation?
+Marten: By allowing people to fail. Michael Jordan said it well: I�ve failed over and over and over again in my life and that is why I succeed.
+
+10. What do you think stops/slows down innovation?
+Marten: Complacency and rigidity. Fear of failure. Fear of success. Not thinking big enough. Not allowing na?ve dreams.
+
+11. What is in your opinion the influence that a �location� (country/region) plays with respect to the possibility to be a successful innovator?
+Marten: We are all influenced by our daily interaction with the world around us. If the interaction is conducive to innovation, we will have more of it. Silicon Valley is such a place. It�s on average probably the most innovative place on the planet, especially in tech. But that doesn�t mean that you couldn�t create bigger innovations elsewhere (Skype comes to mind). In today�s world you can have your daily interaction electronically over long distances and over many time zones, so locations that previously were unfavorable are now OK. Innovators are inherently unconventional. Many times they succeed not thanks to the location, but in spite of it.
+
+12. What would you recommend to make a �location� attractive for innovation?
+Marten: Build on what you have. Take whatever innovators there are at the location in question, and help them help others to innovate. Keep feeding this system with whatever it needs, and watch how the level of innovation slowly but surely improves.
